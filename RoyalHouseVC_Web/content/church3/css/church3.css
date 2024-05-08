@@ -82,10 +82,26 @@ h1, .text-logo #logo {
 	letter-spacing: 1px;
 }
 h2 {
-	font-size: 65px;
+	font-size: 40px;
 	line-height: 70px;
 	font-weight: 400;
 	letter-spacing: 1px;
+}
+/* .event-location{
+	font-size: 30px;
+	line-height: 30px;
+	font-weight: 100;
+	letter-spacing: 1px;
+	position: relative;
+	bottom: 17px;
+} */
+.date-event{
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	position: relative;
+	bottom: 37px;
 }
 h3 {
 	font-size: 30px;
