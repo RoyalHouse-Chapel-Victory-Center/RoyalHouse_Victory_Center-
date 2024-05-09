@@ -87,6 +87,12 @@ h2 {
 	font-weight: 400;
 	letter-spacing: 1px;
 }
+.giving{
+	transition: transform .5s;
+}
+.giving:hover{
+	transform: scale(1.1);
+}
 /* .event-location{
 	font-size: 30px;
 	line-height: 30px;
